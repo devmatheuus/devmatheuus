@@ -4,8 +4,10 @@ Me chamo Matheus, sou desenvolvedor Front-end. 👨‍💻
 
 <div align="center">
   <a href="https://github.com/devmatheuus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmatheuus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmatheuus&layout=compact&langs_count=7&theme=dracula"/>
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=devmatheuus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmatheuus&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## 🛠  Tecnologias e ferramentas
