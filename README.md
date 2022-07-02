@@ -1,6 +1,6 @@
 # Que prazer ter você aqui! 🖖
 
-Me chamo Matheus, sou desenvolvedor Front-end. 👨‍💻
+### Me chamo Matheus, sou desenvolvedor Front-end 👨‍💻
 
 <div align="center">
   <a href="https://github.com/devmatheuus">
@@ -10,7 +10,7 @@ Me chamo Matheus, sou desenvolvedor Front-end. 👨‍💻
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmatheuus&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## 🛠  Tecnologias e ferramentas
+## 🛠  Tecnologias e ferramentas que utilizo no meu dia a dia
 
 <a name="learning-now"></a>
 
@@ -43,7 +43,7 @@ Me chamo Matheus, sou desenvolvedor Front-end. 👨‍💻
 
 <a name="learning-next"></a>
 
-## 🚀  Tecnologias que estou aprendendo no momento
+## 🚀  Tecnologia que estou estudando no momento
 
 [<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript logo" title="Typescript" />][learning_now_anchor]
 &nbsp;
