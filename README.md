@@ -1,6 +1,6 @@
 # Que prazer ter você aqui! 🖖
 
-### Me chamo Matheus, sou desenvolvedor Front-end 👨‍💻
+### Me chamo Matheus, sou desenvolvedor Full stack 👨‍💻
 
 <div align="center">
   <a href="https://github.com/devmatheuus">
