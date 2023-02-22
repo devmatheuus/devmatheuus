@@ -26,6 +26,9 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git logo" title="Git" />
 <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=red"/>
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
+  
+  
+![Snake animation](https://github.com/devmatheuus/devmatheuus/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
